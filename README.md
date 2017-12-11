@@ -1,5 +1,15 @@
 # Discuss
 
+Elixir sample application.
+
+Features:
+  * RESTful
+
+In development:
+  * OAuth
+  * Plugs (https://elixirschool.com/en/lessons/specifics/plug/)
+  * Websockets
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
