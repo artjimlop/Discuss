@@ -5,9 +5,9 @@ Elixir sample application.
 Features:
   * RESTful
   * OAuth
+  * Plugs for adding some security
 
 In development:
-  * Transforming Requests with Plugs (https://elixirschool.com/en/lessons/specifics/plug/)
   * Websockets
 
 To start your Phoenix app:
