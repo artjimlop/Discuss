@@ -6,9 +6,7 @@ Features:
   * RESTful
   * OAuth
   * Plugs for adding some security
-
-In development:
-  * Websockets
+  * Websockets to add comments
 
 To start your Phoenix app:
 
@@ -17,6 +15,7 @@ To start your Phoenix app:
   * Install Node.js dependencies with `npm install`
   * Start Phoenix endpoint with `mix phoenix.server`
   * On config.exs, change Github's client_id and secret
+
 Now you can visit [`localhost:4000`](http://localhost:4000/topics) from your browser.
 
 Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
